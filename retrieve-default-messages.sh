@@ -1,3 +1,5 @@
+#!/bin/sh
+
 API_KEY=$1
 THEME_ID=$2
 
