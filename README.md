@@ -1,5 +1,7 @@
 # Theme management
 
+This has been superseded by https://github.com/FusionAuth/fusionauth-theme-helper
+
 This repository has some tools to help with FusionAuth theme management. More about FusionAuth themes: https://fusionauth.io/docs/v1/tech/themes/
 
 ## Prerequisites
